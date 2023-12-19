@@ -11093,19 +11093,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\linaa\\.nuget\\packages\\": {}
+    "C:\\Users\\soureya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linaa\\OneDrive\\Desktop\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System.csproj",
+      "projectUniqueName": "C:\\Users\\soureya\\Desktop\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System.csproj",
       "projectName": "Flight_Reservation_System",
-      "projectPath": "C:\\Users\\linaa\\OneDrive\\Desktop\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System.csproj",
-      "packagesPath": "C:\\Users\\linaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linaa\\OneDrive\\Desktop\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System\\obj\\",
+      "projectPath": "C:\\Users\\soureya\\Desktop\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System.csproj",
+      "packagesPath": "C:\\Users\\soureya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\soureya\\Desktop\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\linaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\soureya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11173,7 +11173,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
