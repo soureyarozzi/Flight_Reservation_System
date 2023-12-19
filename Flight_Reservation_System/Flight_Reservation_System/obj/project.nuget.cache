@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "OsgCyRfXszYw8QVysns0Nrw4DSF1KL5oJbmJKwrJWjinsm9QkiJw1ccpjUJThSChCXtLjb84I6QEN0OnpiM/Dw==",
   "success": true,
   "projectFilePath": "C:\\Users\\linaa\\OneDrive\\Desktop\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System.csproj",
@@ -228,5 +229,11 @@
     "C:\\Users\\linaa\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\linaa\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "EPDVUG2u/n5WZ85vM+a9RgCumlhmEysBoJJQvb1f2RECYsDMRdq+dXYxFeuFAOXmBkSPUBCI60Wmk8EqwwTsmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linaa\\OneDrive\\Desktop\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System\\Flight_Reservation_System.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> Stashed changes
   "logs": []
 }
