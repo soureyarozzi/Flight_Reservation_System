@@ -1,0 +1,27 @@
+﻿@model List<Passenger>
+
+<div class="alert-danger">@TempData["msj"]</div>
+
+<h2>Manage Passengers</h2>
+
+<table class="table table-striped" width="70%">
+    <thead>
+        <tr>
+            <th>Passenger Id</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <!-- Diğer özellikleri ekleyin -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var passenger in Model)
+        {
+            <tr>
+                <td>@passenger.PassengerId</td>
+                <td>@passenger.FirstName</td>
+                <td>@passenger.LastName</td>
+                <!-- Diğer özellikleri ekleyin -->
+            </tr>
+        }
+    </tbody>
+</table>

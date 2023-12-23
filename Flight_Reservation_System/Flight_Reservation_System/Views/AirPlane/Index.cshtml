@@ -1,0 +1,25 @@
+﻿@model List<AirPlane>
+
+<div class="alert-danger">@TempData["msj"]</div>
+
+<h2>Manage Planes</h2>
+
+<table class="table table-striped" width="70%">
+    <thead>
+        <tr>
+            <th>Plane Id</th>
+            <th>Capacity</th>
+            <!-- Diğer özellikleri ekleyin -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var plane in Model)
+        {
+            <tr>
+                <td>@plane.PlaneId</td>
+                <td>@plane.Capacity</td>
+                <!-- Diğer özellikleri ekleyin -->
+            </tr>
+        }
+    </tbody>
+</table>

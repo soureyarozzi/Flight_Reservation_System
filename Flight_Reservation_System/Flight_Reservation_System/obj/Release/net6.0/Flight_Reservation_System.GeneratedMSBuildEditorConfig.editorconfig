@@ -1,0 +1,249 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Flight_Reservation_System
+build_property.RootNamespace = Flight_Reservation_System
+build_property.ProjectDir = C:\Users\linaa\OneDrive\Desktop\Flight_Reservation_System\Flight_Reservation_System\Flight_Reservation_System\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\linaa\OneDrive\Desktop\Flight_Reservation_System\Flight_Reservation_System\Flight_Reservation_System
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Admin/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cX0xheW91dEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Bookings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Bookings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Bookings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Bookings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Cities/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Cities/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Cities/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Cities/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Cities/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Countries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Countries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Countries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Countries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Countries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/CreditCards/Authenticate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlZGl0Q2FyZHNcQXV0aGVudGljYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Home/SearchResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2hSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Package/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Payments/Complete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcQ29tcGxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/CityList/CityList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2l0eUxpc3RcQ2l0eUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/CityList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2l0eUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/CityList/Slider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2l0eUxpc3RcU2xpZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/CountryList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ291bnRyeUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/CountsComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ291bnRzQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/SelectedCountry/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VsZWN0ZWRDb3VudHJ5XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/TourInformation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVG91ckluZm9ybWF0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/TourList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVG91ckxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/_BannerPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jhbm5lclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/_CardPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NhcmRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/_CulturePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0N1bHR1cmVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/_LayoutLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Components/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Tours/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Tours/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Tours/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Tours/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Tours/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Tour/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/linaa/OneDrive/Desktop/Flight_Reservation_System/Flight_Reservation_System/Flight_Reservation_System/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wqq711vkub

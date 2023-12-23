@@ -1,0 +1,29 @@
+﻿@model List<Flights>
+
+<div class="alert-danger">@TempData["msj"]</div>
+
+<h2>Manage Flights</h2>
+
+<table class="table table-striped" width="70%">
+    <thead>
+        <tr>
+            <th>Flight Id</th>
+            <th>Flight Number</th>
+            <th>Departure City</th>
+            <th>Arrival City</th>
+            <!-- Diğer özellikleri ekleyin -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var flight in Model)
+        {
+            <tr>
+                <td>@flight.FlightId</td>
+                <td>@flight.Destination</td>
+                <td>@flight.DepartureDate</td>
+                <td>@flight.AvailableSeats</td>
+                <!-- Diğer özellikleri ekleyin -->
+            </tr>
+        }
+    </tbody>
+</table>
