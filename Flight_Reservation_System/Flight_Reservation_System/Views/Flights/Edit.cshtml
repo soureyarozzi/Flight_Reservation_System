@@ -1,50 +1,169 @@
-@model Flight_Reservation_System.Models.Flights
+using Flight_Reservation_System.Data;
+using Flight_Reservation_System.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
-@{
-    ViewData["Title"] = "Edit";
-    Layout = "~/Views/Shared/_Layout.cshtml";
-}
+namespace Flight_Reservation_System.Controllers
+{
+    public class FlightsController : Controller
+    {
+        static public List<Flights> flights = new List<Flights>();
 
-<h1>Edit</h1>
+        private readonly FlightDbContext _context;
 
-<h4>Flights</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Edit">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="FlightId" />
-            <div class="form-group">
-                <label asp-for="PlaneId" class="control-label"></label>
-                <input asp-for="PlaneId" class="form-control" />
-                <span asp-validation-for="PlaneId" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Destination" class="control-label"></label>
-                <input asp-for="Destination" class="form-control" />
-                <span asp-validation-for="Destination" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="DepartureDate" class="control-label"></label>
-                <input asp-for="DepartureDate" class="form-control" />
-                <span asp-validation-for="DepartureDate" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="AvailableSeats" class="control-label"></label>
-                <input asp-for="AvailableSeats" class="form-control" />
-                <span asp-validation-for="AvailableSeats" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>
-        </form>
-    </div>
-</div>
+        public FlightsController(FlightDbContext context)
+        {
+            _context = context;
+        }
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
+        public IActionResult Index()
+        {
+            var flights = _context.Flights.ToList();
+            return View(flights);
+        }
 
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        /*
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null || _context.Flights == null)
+            {
+                return NotFound();
+            }
+
+            var flight = await _context.Flights
+                .FirstOrDefaultAsync(m => m.FlightId == id);
+            if (flight == null)
+            {
+                return NotFound();
+            }
+
+            return View(flight);
+        }
+
+
+        //create AirPlane
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: Planes/Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create([Bind("FlightId,FlightName,Capacity")] AirPlane airplane)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Add(airplane);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            ViewData["PlaneId"] = new SelectList(_context.AirPlanes, "PlaneId", "PlaneName", "Capacity", airplane.PlaneId.ToString());
+            return View(airplane);
+        }
+
+
+
+
+        public async Task<IActionResult> Edit(int? id)
+        {
+            if (id == null || _context.AirPlanes == null)
+            {
+                return NotFound();
+            }
+
+            var airplane = await _context.AirPlanes.FindAsync(id);
+            if (airplane == null)
+            {
+                return NotFound();
+            }
+            return View(airplane);
+
+            ViewData["PlaneId"] = new SelectList(_context.AirPlanes, "PlaneId", "PlaneName", "Capacity", airplane.PlaneId.ToString());
+            return View(airplane);
+        }
+
+
+
+
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int id, [Bind("PlaneId,PlaneName,Capacity")] AirPlane airplane)
+        {
+            if (id != airplane.PlaneId)
+            {
+                return NotFound();
+            }
+
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    _context.Update(airplane);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!PlaneExists(airplane.PlaneId))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+                return RedirectToAction(nameof(Index));
+            }
+            ViewData["PlaneId"] = new SelectList(_context.AirPlanes, "PlaneId", "PlaneName", "Capacity", airplane.PlaneId.ToString());
+            return View(airplane);
+        }
+
+
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null || _context.AirPlanes == null)
+            {
+                return NotFound();
+            }
+
+            var airplane = await _context.AirPlanes.FirstOrDefaultAsync(m => m.PlaneId == id);
+            if (airplane == null)
+            {
+                return NotFound();
+            }
+
+            return View(airplane);
+        }
+
+
+        // POST: Kitap/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            if (_context.AirPlanes == null)
+            {
+                return Problem("There are not any Airplane to Delete it.");
+            }
+            var airplane = await _context.AirPlanes.FindAsync(id);
+            if (airplane != null)
+            {
+                _context.AirPlanes.Remove(airplane);
+            }
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
+
+        private bool PlaneExists(int id)
+        {
+            return (_context.AirPlanes?.Any(e => e.PlaneId == id)).GetValueOrDefault();
+        }
+        */
+    }
 }
